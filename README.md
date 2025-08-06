@@ -26,7 +26,6 @@ Digite dois números
 Escolha a operação
 Decida se quer continuar usando o resultado anterior
 
-
 4. Exemplo de uso
 
 Digite seu valor: 10
